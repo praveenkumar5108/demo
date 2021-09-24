@@ -39,7 +39,7 @@ public class LoopingExamples {
 	  	
 	  	// ================================================================================
 	  	
-	  	for(int j = 0; j <= str1.length(); j++) {
+	  	for(int j = 0; j <= str1.length()-1; j++) {
 	  		System.out.println(str1.charAt(j));
 	  	}
 	  		
